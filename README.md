@@ -11,11 +11,11 @@
 
 <h1>Link para para E-Book</h1>
 
-[A Magia do Front-End](https://github.com/Theushenriix/My-Ebook/blob/main/A%20Magia%20do%20Front-end.pdf)
+[A Magia do Front-End](https://github.com/Theushenriix/My-Ebook/blob/main/E-book/A%20Magia%20do%20Front-end.pdf)
 
 
 <h1>Redes Sociais:</h1>
 
-[Instagram](https://www.instagram.com/theushenriix)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/theushenriix) 
 
-[Linkedin](https://www.linkedin.com/in/matheus-henrique-batista-da-silva-56b6392b5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-batista-da-silva-56b6392b5)
